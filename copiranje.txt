@@ -1,0 +1,8 @@
+<section class="klucevi">
+        <br>
+        <br>
+        <h1 id="classic">Classic Keys</h1>
+        <p class="text">The classic keys are used in every indoor or outdoor lock that is used to secure buildings or things like mail boxes etc.</p>
+        <p class="text">There are more types of classic menachanicaly used keys, the first one and the most common one is the zipper key, then we have the special keys which are more secure than the zipper, keys for inside doors and there are specific keys that are designed for one type of products(safes, electric doors, electrical boxes etc.)</p>
+        <h1 id="vozila">Vehicle Keys</h1>
+    </section>
